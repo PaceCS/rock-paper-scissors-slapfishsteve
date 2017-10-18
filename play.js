@@ -1,7 +1,11 @@
 const inquirer = require('inquirer');
+const figlet = require('figlet');
+const chalk = require('chalk');
 const logic = require('./logic');
 
-console.log(`\n \n Get ready to play ${logic.options[0]}, ${logic.options[1]}, ${logic.options[2]}!\n`);
+
+const game = ` ${       logic.options[0]},\n              ${logic.options[1]}, \n                      ${logic.options[2]}!`;
+console.log(chalk.blue(figlet.textSync(game)));
 
 const questions = [
     {
