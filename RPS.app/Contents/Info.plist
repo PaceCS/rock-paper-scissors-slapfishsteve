@@ -7,6 +7,6 @@
     <key>CFBundleDisplayName</key>
     <string>RockPaperScissors</string>
     <key>CFBundleIconFile</key>
-    <string>icon.png</string>
+    <string>icon</string>
 </dict>
 </plist>
