@@ -9,8 +9,20 @@ You will be re-creating the classic game Rock, Paper, Scissors.  You will do thi
 Below are some sample examples of the game.  You can run the game by going to Finder and double clicking on the file RPS.app (just like any other app you run on your Mac.)
 
 ``` 
-
-Get ready to play Rock, Paper, Scissors!
+  ____            _                                          
+  |  _ \ ___   ___| | __                                      
+  | |_) / _ \ / __| |/ /                                      
+  |  _ < (_) | (__|   < _                                     
+  |_| \_\___/ \___|_|\_( )                                    
+               |  _ \ _|/_ _ __   ___ _ __                    
+               | |_) / _` | '_ \ / _ \ '__|                   
+               |  __/ (_| | |_) |  __/ |_                     
+               |_|   \__,_| .__/ \___|_( )                    
+                        __|_|      _   |/                   _ 
+                       / ___|  ___(_)___ ___  ___  _ __ ___| |
+                       \___ \ / __| / __/ __|/ _ \| '__/ __| |
+                        ___) | (__| \__ \__ \ (_) | |  \__ \_|
+                       |____/ \___|_|___/___/\___/|_|  |___(_)
 
 ? Which do you choose? Rock
 You chose rock.
@@ -20,8 +32,20 @@ Rock beats scissors.  You win!
 --
 
  ```
- 
- Get ready to play Rock, Paper, Scissors!
+   ____            _                                          
+  |  _ \ ___   ___| | __                                      
+  | |_) / _ \ / __| |/ /                                      
+  |  _ < (_) | (__|   < _                                     
+  |_| \_\___/ \___|_|\_( )                                    
+               |  _ \ _|/_ _ __   ___ _ __                    
+               | |_) / _` | '_ \ / _ \ '__|                   
+               |  __/ (_| | |_) |  __/ |_                     
+               |_|   \__,_| .__/ \___|_( )                    
+                        __|_|      _   |/                   _ 
+                       / ___|  ___(_)___ ___  ___  _ __ ___| |
+                       \___ \ / __| / __/ __|/ _ \| '__/ __| |
+                        ___) | (__| \__ \__ \ (_) | |  \__ \_|
+                       |____/ \___|_|___/___/\___/|_|  |___(_)
 
 ? Which do you choose? Paper
 You chose paper.
@@ -32,8 +56,20 @@ Scissors beats paper.  You lose.
 --
 
  ```
- 
- Get ready to play Rock, Paper, Scissors!
+   ____            _                                          
+  |  _ \ ___   ___| | __                                      
+  | |_) / _ \ / __| |/ /                                      
+  |  _ < (_) | (__|   < _                                     
+  |_| \_\___/ \___|_|\_( )                                    
+               |  _ \ _|/_ _ __   ___ _ __                    
+               | |_) / _` | '_ \ / _ \ '__|                   
+               |  __/ (_| | |_) |  __/ |_                     
+               |_|   \__,_| .__/ \___|_( )                    
+                        __|_|      _   |/                   _ 
+                       / ___|  ___(_)___ ___  ___  _ __ ___| |
+                       \___ \ / __| / __/ __|/ _ \| '__/ __| |
+                        ___) | (__| \__ \__ \ (_) | |  \__ \_|
+                       |____/ \___|_|___/___/\___/|_|  |___(_)
 
 ? Which do you choose? Paper
 You chose paper.
