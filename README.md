@@ -6,7 +6,7 @@ You will be re-creating the classic game Rock, Paper, Scissors.  You will do thi
 - Tell the user which choice the computer made.
 - Tell the user who won and why.
 
-Below are some sample examples of the game.
+Below are some sample examples of the game.  You can run the game by going to Finder and double clicking on the file RPS.app (just like any other app you run on your Mac.)
 
 ``` 
 
