@@ -21,9 +21,9 @@ function playGame(userChoice) {
     if (compChoice == userChoice) {
         console.log('You tied.');
     } else if ((options.indexOf(userChoice) - options.indexOf(compChoice) + 6) % 3 == 1 ) {
-        console.log('You win!');
+        console.log(`${userChoice} beats ${compChoice}.  You win!`);
     } else {
-        console.log('You lose.');
+        console.log(`${compChoice} beats ${userChoice}.You lose.`);
     }
 
 }
