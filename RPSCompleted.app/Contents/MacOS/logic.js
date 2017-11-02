@@ -5,7 +5,6 @@ const options = ['Rock', 'Paper', 'Scissors'];
 
 // This function takes in the userChoice and then prints the results to the console.
 function playGame(userChoice) {
-
     // First remind the user of his/her choice
     console.log(`You chose ${userChoice.toLowerCase()}.`);
 
